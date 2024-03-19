@@ -1,0 +1,22 @@
+{
+  "name": "arsalan-simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator",
+  "main": "index.js",
+  "type": "module",
+  "bin": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.28"
+  },
+  "dependencies": {
+    "arsalan-simple-calculator": "^1.0.0",
+    "inquirer": "^9.2.16"
+  }
+}
